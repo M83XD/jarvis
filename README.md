@@ -1,1 +1,1 @@
-# jarvis
+# Merhaba! Jarvis, bir yapay zeka (YA) asistanıdır ve ses komutlarını alarak işlemler gerçekleştirir. Jarvis asistanının kodu Python dilinde yazılabilir. Python, bir programlama dilidir ve kullanımı kolaydır. Örneğin, aşağıdaki kod bloğu Jarvis asistanının bir kısmını içerebilir.
